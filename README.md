@@ -6,4 +6,4 @@ Reproducing a program that operates in like manner as the *_printf_* function in
 - Code written implementing Betty Coding and Doc styles
 - Project Source:- Julien Barbier (CEO Holberton school).
 - Language: C programming
--Authors: michizler && mrTimy
+- Authors: michizler && mrTimy
